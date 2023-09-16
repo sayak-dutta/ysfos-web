@@ -1,7 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'YSFOS - Your Source For Open Source',
-  author: 'Tails Azimuth',
+  author: 'Team YSFOS',
+  
   headerTitle: 'YSFOS',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
